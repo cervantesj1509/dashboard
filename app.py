@@ -12,6 +12,28 @@ st.set_page_config(
     page_icon="📊",
     layout="wide"
 )
+st.markdown("""
+    <style>
+        body { 
+            color: #202124 !important; 
+            background-color: #FFFFFF !important; 
+        }
+        .main {
+            background-color: #F5F7FB !important;
+            color: #202124 !important;
+        }
+        [data-testid="stAppViewContainer"] {
+            background-color: #F5F7FB !important;
+            color: #202124 !important;
+        }
+        [data-testid="stSidebar"] {
+            background-color: #FFFFFF !important;
+        }
+        html, body, div, span, p, h1, h2, h3, h4, h5, h6 {
+            color: #202124 !important;
+        }
+    </style>
+""", unsafe_allow_html=True)
 
 # ====== ESTILO TIPO LOOKER STUDIO ======
 st.markdown("""
