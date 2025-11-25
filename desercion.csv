@@ -1,0 +1,764 @@
+Nivel_formacion,Departamento,Postal_code,Año,Tasa_desercion
+Universitario,Amazonas,910001,1/1/2017,58.76
+Universitario,Amazonas,910001,1/1/2018,57.74
+Universitario,Amazonas,910001,1/1/2019,59.84
+Universitario,Amazonas,910001,1/1/2020,53.98
+Universitario,Amazonas,910001,1/1/2021,52.65
+Universitario,Amazonas,910001,1/1/2022,54.12
+Universitario,Amazonas,910001,1/1/2023,51.49
+Universitario,Antioquia,50001,1/1/2017,24.17
+Universitario,Antioquia,50001,1/1/2018,24.24
+Universitario,Antioquia,50001,1/1/2019,23.09
+Universitario,Antioquia,50001,1/1/2020,22.41
+Universitario,Antioquia,50001,1/1/2021,22.59
+Universitario,Antioquia,50001,1/1/2022,21.56
+Universitario,Antioquia,50001,1/1/2023,20.71
+Universitario,Arauca,810001,1/1/2017,32.68
+Universitario,Arauca,810001,1/1/2018,32.56
+Universitario,Arauca,810001,1/1/2019,34.17
+Universitario,Arauca,810001,1/1/2020,29.95
+Universitario,Arauca,810001,1/1/2021,28.91
+Universitario,Arauca,810001,1/1/2022,30.32
+Universitario,Arauca,810001,1/1/2023,29.37
+Universitario,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2017,35.44
+Universitario,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2018,38.55
+Universitario,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2019,50
+Universitario,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2020,35.8
+Universitario,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2021,34.62
+Universitario,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2022,33.33
+Universitario,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2023,33.33
+Universitario,Atlántico,80001,1/1/2017,31.66
+Universitario,Atlántico,80001,1/1/2018,31.72
+Universitario,Atlántico,80001,1/1/2019,30.88
+Universitario,Atlántico,80001,1/1/2020,29.81
+Universitario,Atlántico,80001,1/1/2021,27.62
+Universitario,Atlántico,80001,1/1/2022,24.74
+Universitario,Atlántico,80001,1/1/2023,22.92
+Universitario,Bogotá D.C.,110111,1/1/2017,24.85
+Universitario,Bogotá D.C.,110111,1/1/2018,24.95
+Universitario,Bogotá D.C.,110111,1/1/2019,24.06
+Universitario,Bogotá D.C.,110111,1/1/2020,23.58
+Universitario,Bogotá D.C.,110111,1/1/2021,23.22
+Universitario,Bogotá D.C.,110111,1/1/2022,22.08
+Universitario,Bogotá D.C.,110111,1/1/2023,21.5
+Universitario,Bolívar,130001,1/1/2017,27.19
+Universitario,Bolívar,130001,1/1/2018,27.27
+Universitario,Bolívar,130001,1/1/2019,27.05
+Universitario,Bolívar,130001,1/1/2020,26.19
+Universitario,Bolívar,130001,1/1/2021,26.3
+Universitario,Bolívar,130001,1/1/2022,25.49
+Universitario,Bolívar,130001,1/1/2023,24.65
+Universitario,Boyacá,150001,1/1/2017,22.74
+Universitario,Boyacá,150001,1/1/2018,22.85
+Universitario,Boyacá,150001,1/1/2019,21.94
+Universitario,Boyacá,150001,1/1/2020,21.92
+Universitario,Boyacá,150001,1/1/2021,21.52
+Universitario,Boyacá,150001,1/1/2022,18.37
+Universitario,Boyacá,150001,1/1/2023,17.36
+Universitario,Caldas,170001,1/1/2017,20.45
+Universitario,Caldas,170001,1/1/2018,20.55
+Universitario,Caldas,170001,1/1/2019,20.36
+Universitario,Caldas,170001,1/1/2020,20.08
+Universitario,Caldas,170001,1/1/2021,20.11
+Universitario,Caldas,170001,1/1/2022,19.55
+Universitario,Caldas,170001,1/1/2023,19.01
+Universitario,Caquetá,180001,1/1/2017,35.17
+Universitario,Caquetá,180001,1/1/2018,35.08
+Universitario,Caquetá,180001,1/1/2019,34.25
+Universitario,Caquetá,180001,1/1/2020,32.97
+Universitario,Caquetá,180001,1/1/2021,32.88
+Universitario,Caquetá,180001,1/1/2022,31.36
+Universitario,Caquetá,180001,1/1/2023,30.1
+TyT,Amazonas,910001,1/1/2017,52.23
+TyT,Amazonas,910001,1/1/2018,52.52
+TyT,Amazonas,910001,1/1/2019,59.29
+TyT,Amazonas,910001,1/1/2020,48.63
+TyT,Amazonas,910001,1/1/2021,50.25
+TyT,Amazonas,910001,1/1/2022,55.41
+TyT,Amazonas,910001,1/1/2023,53.24
+TyT,Antioquia,50001,1/1/2017,33.84
+TyT,Antioquia,50001,1/1/2018,34.45
+TyT,Antioquia,50001,1/1/2019,33.56
+TyT,Antioquia,50001,1/1/2020,32.64
+TyT,Antioquia,50001,1/1/2021,32.94
+TyT,Antioquia,50001,1/1/2022,31.94
+TyT,Antioquia,50001,1/1/2023,32.03
+TyT,Arauca,810001,1/1/2017,39.4
+TyT,Arauca,810001,1/1/2018,42.94
+TyT,Arauca,810001,1/1/2019,44.14
+TyT,Arauca,810001,1/1/2020,38.21
+TyT,Arauca,810001,1/1/2021,37.23
+TyT,Arauca,810001,1/1/2022,38.54
+TyT,Arauca,810001,1/1/2023,37.66
+TyT,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2017,53.05
+TyT,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2018,53.44
+TyT,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2019,56.71
+TyT,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2020,50.26
+TyT,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2021,49.47
+TyT,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2022,49.17
+TyT,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2023,47.23
+TyT,Atlántico,80001,1/1/2017,40.14
+TyT,Atlántico,80001,1/1/2018,41.27
+TyT,Atlántico,80001,1/1/2019,40.56
+TyT,Atlántico,80001,1/1/2020,39.18
+TyT,Atlántico,80001,1/1/2021,38.7
+TyT,Atlántico,80001,1/1/2022,36.46
+TyT,Atlántico,80001,1/1/2023,35.14
+TyT,Bogotá D.C.,110111,1/1/2017,36.21
+TyT,Bogotá D.C.,110111,1/1/2018,36.61
+TyT,Bogotá D.C.,110111,1/1/2019,33.52
+TyT,Bogotá D.C.,110111,1/1/2020,34.96
+TyT,Bogotá D.C.,110111,1/1/2021,34.56
+TyT,Bogotá D.C.,110111,1/1/2022,30.97
+TyT,Bogotá D.C.,110111,1/1/2023,30.39
+TyT,Bolívar,130001,1/1/2017,38.53
+TyT,Bolívar,130001,1/1/2018,39.69
+TyT,Bolívar,130001,1/1/2019,41.14
+TyT,Bolívar,130001,1/1/2020,36.8
+TyT,Bolívar,130001,1/1/2021,36.85
+TyT,Bolívar,130001,1/1/2022,35.96
+TyT,Bolívar,130001,1/1/2023,35
+TyT,Boyacá,150001,1/1/2017,25.74
+TyT,Boyacá,150001,1/1/2018,27.48
+TyT,Boyacá,150001,1/1/2019,29.59
+TyT,Boyacá,150001,1/1/2020,26.53
+TyT,Boyacá,150001,1/1/2021,26.59
+TyT,Boyacá,150001,1/1/2022,26.07
+TyT,Boyacá,150001,1/1/2023,25.32
+TyT,Caldas,170001,1/1/2017,32.25
+TyT,Caldas,170001,1/1/2018,33.26
+TyT,Caldas,170001,1/1/2019,34.61
+TyT,Caldas,170001,1/1/2020,33.46
+TyT,Caldas,170001,1/1/2021,33.54
+TyT,Caldas,170001,1/1/2022,32.74
+TyT,Caldas,170001,1/1/2023,31.88
+TyT,Caquetá,180001,1/1/2017,46.1
+TyT,Caquetá,180001,1/1/2018,46.83
+TyT,Caquetá,180001,1/1/2019,49.23
+TyT,Caquetá,180001,1/1/2020,44.22
+TyT,Caquetá,180001,1/1/2021,40.55
+TyT,Caquetá,180001,1/1/2022,39.02
+TyT,Caquetá,180001,1/1/2023,37.71
+TyT,Casanare,850001,1/1/2017,37.76
+TyT,Casanare,850001,1/1/2018,38.42
+TyT,Casanare,850001,1/1/2019,43.36
+TyT,Casanare,850001,1/1/2020,34.8
+TyT,Casanare,850001,1/1/2021,33.24
+TyT,Casanare,850001,1/1/2022,35.3
+TyT,Casanare,850001,1/1/2023,32.86
+TyT,Cauca,190001,1/1/2017,35.68
+TyT,Cauca,190001,1/1/2018,37.17
+TyT,Cauca,190001,1/1/2019,39.69
+TyT,Cauca,190001,1/1/2020,35.87
+TyT,Cauca,190001,1/1/2021,36.32
+TyT,Cauca,190001,1/1/2022,36.35
+TyT,Cauca,190001,1/1/2023,35.05
+TyT,Cesar,200001,1/1/2017,33.29
+TyT,Cesar,200001,1/1/2018,36.7
+TyT,Cesar,200001,1/1/2019,41.91
+TyT,Cesar,200001,1/1/2020,34.63
+TyT,Cesar,200001,1/1/2021,34.4
+TyT,Cesar,200001,1/1/2022,36.58
+TyT,Cesar,200001,1/1/2023,35.55
+TyT,Chocó,270001,1/1/2017,30.94
+TyT,Chocó,270001,1/1/2018,33
+TyT,Chocó,270001,1/1/2019,35.52
+TyT,Chocó,270001,1/1/2020,31.97
+TyT,Chocó,270001,1/1/2021,31.39
+TyT,Chocó,270001,1/1/2022,29.78
+TyT,Chocó,270001,1/1/2023,27.15
+TyT,Córdoba,230001,1/1/2017,39.07
+TyT,Córdoba,230001,1/1/2018,39.74
+TyT,Córdoba,230001,1/1/2019,43.73
+TyT,Córdoba,230001,1/1/2020,37.83
+TyT,Córdoba,230001,1/1/2021,33.71
+TyT,Córdoba,230001,1/1/2022,33.61
+TyT,Córdoba,230001,1/1/2023,32.01
+TyT,Cundinamarca,250001,1/1/2017,29.96
+TyT,Cundinamarca,250001,1/1/2018,31.52
+TyT,Cundinamarca,250001,1/1/2019,30.82
+TyT,Cundinamarca,250001,1/1/2020,26.38
+TyT,Cundinamarca,250001,1/1/2021,26.37
+TyT,Cundinamarca,250001,1/1/2022,27.15
+TyT,Cundinamarca,250001,1/1/2023,26.55
+TyT,Guainía,940001,1/1/2017,29.8
+TyT,Guainía,940001,1/1/2018,34.57
+TyT,Guainía,940001,1/1/2019,36.46
+TyT,Guainía,940001,1/1/2020,34.7
+TyT,Guainía,940001,1/1/2021,32.74
+TyT,Guainía,940001,1/1/2022,32.84
+TyT,Guainía,940001,1/1/2023,32.65
+TyT,Guaviare,950001,1/1/2017,45.31
+TyT,Guaviare,950001,1/1/2018,47.1
+TyT,Guaviare,950001,1/1/2019,54.14
+TyT,Guaviare,950001,1/1/2020,45.16
+TyT,Guaviare,950001,1/1/2021,44.68
+TyT,Guaviare,950001,1/1/2022,47.74
+TyT,Guaviare,950001,1/1/2023,46.01
+TyT,Huila,410001,1/1/2017,31.59
+TyT,Huila,410001,1/1/2018,34.3
+TyT,Huila,410001,1/1/2019,38.52
+TyT,Huila,410001,1/1/2020,32.98
+TyT,Huila,410001,1/1/2021,32.66
+TyT,Huila,410001,1/1/2022,33.58
+TyT,Huila,410001,1/1/2023,33.47
+TyT,La Guajira,440001,1/1/2017,45.36
+TyT,La Guajira,440001,1/1/2018,47.61
+TyT,La Guajira,440001,1/1/2019,53.03
+TyT,La Guajira,440001,1/1/2020,46.23
+TyT,La Guajira,440001,1/1/2021,45.9
+TyT,La Guajira,440001,1/1/2022,48.32
+TyT,La Guajira,440001,1/1/2023,46.65
+TyT,Magdalena,470001,1/1/2017,40.15
+TyT,Magdalena,470001,1/1/2018,41.9
+TyT,Magdalena,470001,1/1/2019,46.04
+TyT,Magdalena,470001,1/1/2020,41.04
+TyT,Magdalena,470001,1/1/2021,38.77
+TyT,Magdalena,470001,1/1/2022,37.95
+TyT,Magdalena,470001,1/1/2023,37.18
+TyT,Meta,500001,1/1/2017,34.21
+TyT,Meta,500001,1/1/2018,36.33
+TyT,Meta,500001,1/1/2019,41.11
+TyT,Meta,500001,1/1/2020,34.21
+TyT,Meta,500001,1/1/2021,33.2
+TyT,Meta,500001,1/1/2022,33.83
+TyT,Meta,500001,1/1/2023,32.6
+TyT,Nariño,520001,1/1/2017,30.76
+TyT,Nariño,520001,1/1/2018,32.41
+TyT,Nariño,520001,1/1/2019,34.4
+TyT,Nariño,520001,1/1/2020,30.52
+TyT,Nariño,520001,1/1/2021,29.54
+TyT,Nariño,520001,1/1/2022,28.85
+TyT,Nariño,520001,1/1/2023,28.57
+TyT,Norte De Santander,540001,1/1/2017,36.3
+TyT,Norte De Santander,540001,1/1/2018,37.71
+TyT,Norte De Santander,540001,1/1/2019,37.99
+TyT,Norte De Santander,540001,1/1/2020,35.53
+TyT,Norte De Santander,540001,1/1/2021,35
+TyT,Norte De Santander,540001,1/1/2022,34.21
+TyT,Norte De Santander,540001,1/1/2023,33.22
+TyT,Putumayo,860001,1/1/2017,44.33
+TyT,Putumayo,860001,1/1/2018,46.35
+TyT,Putumayo,860001,1/1/2019,47.76
+TyT,Putumayo,860001,1/1/2020,43.4
+TyT,Putumayo,860001,1/1/2021,42.24
+TyT,Putumayo,860001,1/1/2022,41.41
+TyT,Putumayo,860001,1/1/2023,40.27
+TyT,Quindío,630001,1/1/2017,38.79
+TyT,Quindío,630001,1/1/2018,40.34
+TyT,Quindío,630001,1/1/2019,42.03
+TyT,Quindío,630001,1/1/2020,39.93
+TyT,Quindío,630001,1/1/2021,40.66
+TyT,Quindío,630001,1/1/2022,40.32
+TyT,Quindío,630001,1/1/2023,40.43
+TyT,Risaralda,660001,1/1/2017,35.52
+TyT,Risaralda,660001,1/1/2018,35.92
+TyT,Risaralda,660001,1/1/2019,36.65
+TyT,Risaralda,660001,1/1/2020,33.9
+TyT,Risaralda,660001,1/1/2021,34.13
+TyT,Risaralda,660001,1/1/2022,34.59
+TyT,Risaralda,660001,1/1/2023,34.19
+TyT,Santander,680001,1/1/2017,36.2
+TyT,Santander,680001,1/1/2018,36.48
+TyT,Santander,680001,1/1/2019,37.55
+TyT,Santander,680001,1/1/2020,35.29
+TyT,Santander,680001,1/1/2021,34.46
+TyT,Santander,680001,1/1/2022,33.96
+TyT,Santander,680001,1/1/2023,32.49
+TyT,Sucre,700001,1/1/2017,32.42
+TyT,Sucre,700001,1/1/2018,34.16
+TyT,Sucre,700001,1/1/2019,38.33
+TyT,Sucre,700001,1/1/2020,33.62
+TyT,Sucre,700001,1/1/2021,27.82
+TyT,Sucre,700001,1/1/2022,28.5
+TyT,Sucre,700001,1/1/2023,26.53
+TyT,Tolima,730001,1/1/2017,37.45
+TyT,Tolima,730001,1/1/2018,38.54
+TyT,Tolima,730001,1/1/2019,40.52
+TyT,Tolima,730001,1/1/2020,36.58
+TyT,Tolima,730001,1/1/2021,35.47
+TyT,Tolima,730001,1/1/2022,34.46
+TyT,Tolima,730001,1/1/2023,33.6
+TyT,Valle Del Cauca,760001,1/1/2017,38.08
+TyT,Valle Del Cauca,760001,1/1/2018,38.73
+TyT,Valle Del Cauca,760001,1/1/2019,39.72
+TyT,Valle Del Cauca,760001,1/1/2020,37.61
+TyT,Valle Del Cauca,760001,1/1/2021,37.27
+TyT,Valle Del Cauca,760001,1/1/2022,36.53
+TyT,Valle Del Cauca,760001,1/1/2023,36
+TyT,Vaupés,970001,1/1/2017,47.02
+TyT,Vaupés,970001,1/1/2018,52.31
+TyT,Vaupés,970001,1/1/2019,50.42
+TyT,Vaupés,970001,1/1/2020,48.15
+TyT,Vaupés,970001,1/1/2021,48.61
+TyT,Vaupés,970001,1/1/2022,45.99
+TyT,Vaupés,970001,1/1/2023,44.9
+TyT,Vichada,990001,1/1/2017,40.43
+TyT,Vichada,990001,1/1/2018,42.79
+TyT,Vichada,990001,1/1/2019,50
+TyT,Vichada,990001,1/1/2020,41.96
+TyT,Vichada,990001,1/1/2021,40.13
+TyT,Vichada,990001,1/1/2022,41.64
+TyT,Vichada,990001,1/1/2023,40.08
+Tecnico Profesional,Amazonas,910001,1/1/2017,60.96
+Tecnico Profesional,Amazonas,910001,1/1/2018,60.64
+Tecnico Profesional,Amazonas,910001,1/1/2019,61.95
+Tecnico Profesional,Amazonas,910001,1/1/2020,52.56
+Tecnico Profesional,Amazonas,910001,1/1/2021,55.94
+Tecnico Profesional,Amazonas,910001,1/1/2022,60.2
+Tecnico Profesional,Amazonas,910001,1/1/2023,51.39
+Tecnico Profesional,Antioquia,50001,1/1/2017,32
+Tecnico Profesional,Antioquia,50001,1/1/2018,32.38
+Tecnico Profesional,Antioquia,50001,1/1/2019,30.19
+Tecnico Profesional,Antioquia,50001,1/1/2020,31.12
+Tecnico Profesional,Antioquia,50001,1/1/2021,32.03
+Tecnico Profesional,Antioquia,50001,1/1/2022,28.15
+Tecnico Profesional,Antioquia,50001,1/1/2023,27.71
+Tecnico Profesional,Arauca,810001,1/1/2017,45
+Tecnico Profesional,Arauca,810001,1/1/2018,44.44
+Tecnico Profesional,Arauca,810001,1/1/2019,43.75
+Tecnico Profesional,Arauca,810001,1/1/2020,41.56
+Tecnico Profesional,Arauca,810001,1/1/2021,40.79
+Tecnico Profesional,Arauca,810001,1/1/2022,41.98
+Tecnico Profesional,Arauca,810001,1/1/2023,40.74
+Tecnico Profesional,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2017,61.39
+Tecnico Profesional,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2018,60.19
+Tecnico Profesional,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2019,58.22
+Tecnico Profesional,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2020,57.93
+Tecnico Profesional,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2021,57.6
+Tecnico Profesional,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2022,54.42
+Tecnico Profesional,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2023,50.07
+Tecnico Profesional,Atlántico,80001,1/1/2017,47.17
+Tecnico Profesional,Atlántico,80001,1/1/2018,47.36
+Tecnico Profesional,Atlántico,80001,1/1/2019,47.04
+Tecnico Profesional,Atlántico,80001,1/1/2020,45.15
+Tecnico Profesional,Atlántico,80001,1/1/2021,44.21
+Tecnico Profesional,Atlántico,80001,1/1/2022,41.53
+Tecnico Profesional,Atlántico,80001,1/1/2023,39.05
+Tecnico Profesional,"Bogotá, D. C.",110111,1/1/2017,36.62
+Tecnico Profesional,"Bogotá, D. C.",110111,1/1/2018,36.6
+Tecnico Profesional,"Bogotá, D. C.",110111,1/1/2019,35.77
+Tecnico Profesional,"Bogotá, D. C.",110111,1/1/2020,35.95
+Tecnico Profesional,"Bogotá, D. C.",110111,1/1/2021,35.14
+Tecnico Profesional,"Bogotá, D. C.",110111,1/1/2022,33.16
+Tecnico Profesional,"Bogotá, D. C.",110111,1/1/2023,32.43
+Tecnico Profesional,Bolívar,130001,1/1/2017,51.48
+Tecnico Profesional,Bolívar,130001,1/1/2018,51.31
+Tecnico Profesional,Bolívar,130001,1/1/2019,50.58
+Tecnico Profesional,Bolívar,130001,1/1/2020,47.41
+Tecnico Profesional,Bolívar,130001,1/1/2021,47.77
+Tecnico Profesional,Bolívar,130001,1/1/2022,46.86
+Tecnico Profesional,Bolívar,130001,1/1/2023,45.1
+Tecnico Profesional,Boyacá,150001,1/1/2017,10.77
+Tecnico Profesional,Boyacá,150001,1/1/2018,12.5
+Tecnico Profesional,Boyacá,150001,1/1/2019,13.24
+Tecnico Profesional,Boyacá,150001,1/1/2020,14.39
+Tecnico Profesional,Boyacá,150001,1/1/2021,14.45
+Tecnico Profesional,Boyacá,150001,1/1/2022,13.92
+Tecnico Profesional,Boyacá,150001,1/1/2023,13.48
+Tecnico Profesional,Caldas,170001,1/1/2017,32.23
+Tecnico Profesional,Caldas,170001,1/1/2018,34.38
+Tecnico Profesional,Caldas,170001,1/1/2019,35.9
+Tecnico Profesional,Caldas,170001,1/1/2020,35.23
+Tecnico Profesional,Caldas,170001,1/1/2021,35.42
+Tecnico Profesional,Caldas,170001,1/1/2022,32.92
+Tecnico Profesional,Caldas,170001,1/1/2023,31.29
+Tecnico Profesional,Caquetá,180001,1/1/2017,56.25
+Tecnico Profesional,Caquetá,180001,1/1/2018,54.74
+Tecnico Profesional,Caquetá,180001,1/1/2019,59.65
+Tecnico Profesional,Caquetá,180001,1/1/2020,50.21
+Tecnico Profesional,Caquetá,180001,1/1/2021,8.2
+Tecnico Profesional,Caquetá,180001,1/1/2022,6.5
+Tecnico Profesional,Caquetá,180001,1/1/2023,6
+Tecnico Profesional,Casanare,850001,1/1/2017,46.81
+Tecnico Profesional,Casanare,850001,1/1/2018,48.05
+Tecnico Profesional,Casanare,850001,1/1/2019,47.65
+Tecnico Profesional,Casanare,850001,1/1/2020,38.2
+Tecnico Profesional,Casanare,850001,1/1/2021,34.84
+Tecnico Profesional,Casanare,850001,1/1/2022,40.29
+Tecnico Profesional,Casanare,850001,1/1/2023,35.18
+Tecnico Profesional,Cauca,190001,1/1/2017,62.79
+Tecnico Profesional,Cauca,190001,1/1/2018,62.1
+Tecnico Profesional,Cauca,190001,1/1/2019,60.32
+Tecnico Profesional,Cauca,190001,1/1/2020,60.26
+Tecnico Profesional,Cauca,190001,1/1/2021,59.01
+Tecnico Profesional,Cauca,190001,1/1/2022,59.07
+Tecnico Profesional,Cauca,190001,1/1/2023,58.83
+Tecnico Profesional,Cesar,200001,1/1/2017,54.6
+Tecnico Profesional,Cesar,200001,1/1/2018,53.5
+Tecnico Profesional,Cesar,200001,1/1/2019,50
+Tecnico Profesional,Cesar,200001,1/1/2020,47.69
+Tecnico Profesional,Cesar,200001,1/1/2021,49.12
+Tecnico Profesional,Cesar,200001,1/1/2022,47.92
+Tecnico Profesional,Cesar,200001,1/1/2023,46.14
+Tecnico Profesional,Chocó,270001,1/1/2017,18.44
+Tecnico Profesional,Chocó,270001,1/1/2018,18.6
+Tecnico Profesional,Chocó,270001,1/1/2019,18.01
+Tecnico Profesional,Chocó,270001,1/1/2020,17
+Tecnico Profesional,Chocó,270001,1/1/2021,15.57
+Tecnico Profesional,Chocó,270001,1/1/2022,13.19
+Tecnico Profesional,Chocó,270001,1/1/2023,9.06
+Tecnico Profesional,Córdoba,230001,1/1/2017,47.46
+Tecnico Profesional,Córdoba,230001,1/1/2018,47.52
+Tecnico Profesional,Córdoba,230001,1/1/2019,50.63
+Tecnico Profesional,Córdoba,230001,1/1/2020,45.43
+Tecnico Profesional,Córdoba,230001,1/1/2021,33.65
+Tecnico Profesional,Córdoba,230001,1/1/2022,28.76
+Tecnico Profesional,Córdoba,230001,1/1/2023,27.29
+Tecnico Profesional,Cundinamarca,250001,1/1/2017,20.19
+Tecnico Profesional,Cundinamarca,250001,1/1/2018,20.27
+Tecnico Profesional,Cundinamarca,250001,1/1/2019,22.65
+Tecnico Profesional,Cundinamarca,250001,1/1/2020,18.62
+Tecnico Profesional,Cundinamarca,250001,1/1/2021,16.16
+Tecnico Profesional,Cundinamarca,250001,1/1/2022,15.6
+Tecnico Profesional,Cundinamarca,250001,1/1/2023,11.84
+Tecnico Profesional,Guainía,940001,1/1/2017,50
+Tecnico Profesional,Guainía,940001,1/1/2018,47.73
+Tecnico Profesional,Guainía,940001,1/1/2019,46.51
+Tecnico Profesional,Guainía,940001,1/1/2020,42.86
+Tecnico Profesional,Guainía,940001,1/1/2021,0
+Tecnico Profesional,Guainía,940001,1/1/2022,0
+Tecnico Profesional,Guainía,940001,1/1/2023,0
+Tecnico Profesional,Guaviare,950001,1/1/2017,0
+Tecnico Profesional,Guaviare,950001,1/1/2018,0
+Tecnico Profesional,Guaviare,950001,1/1/2019,0
+Tecnico Profesional,Guaviare,950001,1/1/2020,0
+Tecnico Profesional,Guaviare,950001,1/1/2021,0
+Tecnico Profesional,Guaviare,950001,1/1/2022,0
+Tecnico Profesional,Guaviare,950001,1/1/2023,0
+Tecnico Profesional,Huila,410001,1/1/2017,37.57
+Tecnico Profesional,Huila,410001,1/1/2018,38.02
+Tecnico Profesional,Huila,410001,1/1/2019,39.95
+Tecnico Profesional,Huila,410001,1/1/2020,36.39
+Tecnico Profesional,Huila,410001,1/1/2021,25.44
+Tecnico Profesional,Huila,410001,1/1/2022,22.94
+Tecnico Profesional,Huila,410001,1/1/2023,23.48
+Tecnico Profesional,La Guajira,440001,1/1/2017,44.59
+Tecnico Profesional,La Guajira,440001,1/1/2018,44.24
+Tecnico Profesional,La Guajira,440001,1/1/2019,44.03
+Tecnico Profesional,La Guajira,440001,1/1/2020,42.71
+Tecnico Profesional,La Guajira,440001,1/1/2021,42.77
+Tecnico Profesional,La Guajira,440001,1/1/2022,42.09
+Tecnico Profesional,La Guajira,440001,1/1/2023,39.27
+Tecnico Profesional,Magdalena,470001,1/1/2017,44.72
+Tecnico Profesional,Magdalena,470001,1/1/2018,45.36
+Tecnico Profesional,Magdalena,470001,1/1/2019,47.26
+Tecnico Profesional,Magdalena,470001,1/1/2020,44.98
+Tecnico Profesional,Magdalena,470001,1/1/2021,40.78
+Tecnico Profesional,Magdalena,470001,1/1/2022,37.43
+Tecnico Profesional,Magdalena,470001,1/1/2023,37.05
+Tecnico Profesional,Meta,500001,1/1/2017,26.31
+Tecnico Profesional,Meta,500001,1/1/2018,26.79
+Tecnico Profesional,Meta,500001,1/1/2019,39.62
+Tecnico Profesional,Meta,500001,1/1/2020,25.71
+Tecnico Profesional,Meta,500001,1/1/2021,22.88
+Tecnico Profesional,Meta,500001,1/1/2022,27.55
+Tecnico Profesional,Meta,500001,1/1/2023,24.78
+Tecnico Profesional,Nariño,520001,1/1/2017,47.9
+Tecnico Profesional,Nariño,520001,1/1/2018,47.18
+Tecnico Profesional,Nariño,520001,1/1/2019,52.17
+Tecnico Profesional,Nariño,520001,1/1/2020,44.67
+Tecnico Profesional,Nariño,520001,1/1/2021,41.13
+Tecnico Profesional,Nariño,520001,1/1/2022,34.44
+Tecnico Profesional,Nariño,520001,1/1/2023,33.87
+Tecnico Profesional,Norte De Santander,540001,1/1/2017,54.74
+Tecnico Profesional,Norte De Santander,540001,1/1/2018,55.34
+Tecnico Profesional,Norte De Santander,540001,1/1/2019,53.8
+Tecnico Profesional,Norte De Santander,540001,1/1/2020,51.48
+Tecnico Profesional,Norte De Santander,540001,1/1/2021,51.42
+Tecnico Profesional,Norte De Santander,540001,1/1/2022,48.35
+Tecnico Profesional,Norte De Santander,540001,1/1/2023,46.53
+Tecnico Profesional,Putumayo,860001,1/1/2017,72.45
+Tecnico Profesional,Putumayo,860001,1/1/2018,71.82
+Tecnico Profesional,Putumayo,860001,1/1/2019,73.3
+Tecnico Profesional,Putumayo,860001,1/1/2020,70.28
+Tecnico Profesional,Putumayo,860001,1/1/2021,75.24
+Tecnico Profesional,Putumayo,860001,1/1/2022,73.79
+Tecnico Profesional,Putumayo,860001,1/1/2023,73.58
+Tecnico Profesional,Quindío,630001,1/1/2017,38.27
+Tecnico Profesional,Quindío,630001,1/1/2018,38.19
+Tecnico Profesional,Quindío,630001,1/1/2019,37.62
+Tecnico Profesional,Quindío,630001,1/1/2020,36.72
+Tecnico Profesional,Quindío,630001,1/1/2021,36.51
+Tecnico Profesional,Quindío,630001,1/1/2022,34.58
+Tecnico Profesional,Quindío,630001,1/1/2023,34.44
+Tecnico Profesional,Risaralda,660001,1/1/2017,47.5
+Tecnico Profesional,Risaralda,660001,1/1/2018,47.34
+Tecnico Profesional,Risaralda,660001,1/1/2019,45.91
+Tecnico Profesional,Risaralda,660001,1/1/2020,44.41
+Tecnico Profesional,Risaralda,660001,1/1/2021,43.98
+Tecnico Profesional,Risaralda,660001,1/1/2022,41.76
+Tecnico Profesional,Risaralda,660001,1/1/2023,40.72
+Tecnico Profesional,Santander,680001,1/1/2017,43.05
+Tecnico Profesional,Santander,680001,1/1/2018,43.08
+Tecnico Profesional,Santander,680001,1/1/2019,43.4
+Tecnico Profesional,Santander,680001,1/1/2020,41.5
+Tecnico Profesional,Santander,680001,1/1/2021,41.08
+Tecnico Profesional,Santander,680001,1/1/2022,40.66
+Tecnico Profesional,Santander,680001,1/1/2023,39.06
+Tecnico Profesional,Sucre,700001,1/1/2017,36.29
+Tecnico Profesional,Sucre,700001,1/1/2018,36.68
+Tecnico Profesional,Sucre,700001,1/1/2019,42.03
+Tecnico Profesional,Sucre,700001,1/1/2020,36.37
+Tecnico Profesional,Sucre,700001,1/1/2021,26.64
+Tecnico Profesional,Sucre,700001,1/1/2022,26.91
+Tecnico Profesional,Sucre,700001,1/1/2023,24.17
+Tecnico Profesional,Tolima,730001,1/1/2017,37.38
+Tecnico Profesional,Tolima,730001,1/1/2018,37.78
+Tecnico Profesional,Tolima,730001,1/1/2019,37.59
+Tecnico Profesional,Tolima,730001,1/1/2020,36.09
+Tecnico Profesional,Tolima,730001,1/1/2021,32.85
+Tecnico Profesional,Tolima,730001,1/1/2022,29.7
+Tecnico Profesional,Tolima,730001,1/1/2023,28.68
+Tecnico Profesional,Valle Del Cauca,760001,1/1/2017,41.49
+Tecnico Profesional,Valle Del Cauca,760001,1/1/2018,41.69
+Tecnico Profesional,Valle Del Cauca,760001,1/1/2019,42.43
+Tecnico Profesional,Valle Del Cauca,760001,1/1/2020,41.16
+Tecnico Profesional,Valle Del Cauca,760001,1/1/2021,41.6
+Tecnico Profesional,Valle Del Cauca,760001,1/1/2022,40.02
+Tecnico Profesional,Valle Del Cauca,760001,1/1/2023,39.5
+Tecnico Profesional,Vaupés,970001,1/1/2017,0
+Tecnico Profesional,Vaupés,970001,1/1/2018,0
+Tecnico Profesional,Vaupés,970001,1/1/2019,0
+Tecnico Profesional,Vaupés,970001,1/1/2020,0
+Tecnico Profesional,Vaupés,970001,1/1/2021,0
+Tecnico Profesional,Vaupés,970001,1/1/2022,0
+Tecnico Profesional,Vaupés,970001,1/1/2023,0
+Tecnico Profesional,Vichada,990001,1/1/2017,58.7
+Tecnico Profesional,Vichada,990001,1/1/2018,58.7
+Tecnico Profesional,Vichada,990001,1/1/2019,58.7
+Tecnico Profesional,Vichada,990001,1/1/2020,55.26
+Tecnico Profesional,Vichada,990001,1/1/2021,52.94
+Tecnico Profesional,Vichada,990001,1/1/2022,46.94
+Tecnico Profesional,Vichada,990001,1/1/2023,46.94
+Tecnologico,Amazonas,910001,1/1/2017,49.77
+Tecnologico,Amazonas,910001,1/1/2018,50.29
+Tecnologico,Amazonas,910001,1/1/2019,58.32
+Tecnologico,Amazonas,910001,1/1/2020,47.86
+Tecnologico,Amazonas,910001,1/1/2021,49.29
+Tecnologico,Amazonas,910001,1/1/2022,54.08
+Tecnologico,Amazonas,910001,1/1/2023,53.73
+Tecnologico,Antioquia,50001,1/1/2017,33.98
+Tecnologico,Antioquia,50001,1/1/2018,34.6
+Tecnologico,Antioquia,50001,1/1/2019,33.81
+Tecnologico,Antioquia,50001,1/1/2020,32.75
+Tecnologico,Antioquia,50001,1/1/2021,33
+Tecnologico,Antioquia,50001,1/1/2022,32.2
+Tecnologico,Antioquia,50001,1/1/2023,32.34
+Tecnologico,Arauca,810001,1/1/2017,39.14
+Tecnologico,Arauca,810001,1/1/2018,42.88
+Tecnologico,Arauca,810001,1/1/2019,44.15
+Tecnologico,Arauca,810001,1/1/2020,38.08
+Tecnologico,Arauca,810001,1/1/2021,37.11
+Tecnologico,Arauca,810001,1/1/2022,38.42
+Tecnologico,Arauca,810001,1/1/2023,37.55
+Tecnologico,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2017,43.89
+Tecnologico,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2018,46.82
+Tecnologico,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2019,54.73
+Tecnologico,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2020,43.3
+Tecnologico,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2021,42.87
+Tecnologico,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2022,46.26
+Tecnologico,"Archipiélago De San Andrés, Providencia Y Santa Catalina",880001,1/1/2023,45.1
+Tecnologico,Atlántico,80001,1/1/2017,34.88
+Tecnologico,Atlántico,80001,1/1/2018,36.86
+Tecnologico,Atlántico,80001,1/1/2019,36.27
+Tecnologico,Atlántico,80001,1/1/2020,35.1
+Tecnologico,Atlántico,80001,1/1/2021,35.1
+Tecnologico,Atlántico,80001,1/1/2022,33.25
+Tecnologico,Atlántico,80001,1/1/2023,32.73
+Tecnologico,Bogotá D.C.,110111,1/1/2017,35.97
+Tecnologico,Bogotá D.C.,110111,1/1/2018,36.62
+Tecnologico,Bogotá D.C.,110111,1/1/2019,32.41
+Tecnologico,Bogotá D.C.,110111,1/1/2020,34.41
+Tecnologico,Bogotá D.C.,110111,1/1/2021,34.22
+Tecnologico,Bogotá D.C.,110111,1/1/2022,29.86
+Tecnologico,Bogotá D.C.,110111,1/1/2023,29.36
+Tecnologico,Bolívar,130001,1/1/2017,36.59
+Tecnologico,Bolívar,130001,1/1/2018,38.03
+Tecnologico,Bolívar,130001,1/1/2019,39.64
+Tecnologico,Bolívar,130001,1/1/2020,35.24
+Tecnologico,Bolívar,130001,1/1/2021,35.23
+Tecnologico,Bolívar,130001,1/1/2022,34.25
+Tecnologico,Bolívar,130001,1/1/2023,33.47
+Tecnologico,Boyacá,150001,1/1/2017,29.46
+Tecnologico,Boyacá,150001,1/1/2018,31.09
+Tecnologico,Boyacá,150001,1/1/2019,33.83
+Tecnologico,Boyacá,150001,1/1/2020,29.42
+Tecnologico,Boyacá,150001,1/1/2021,29.39
+Tecnologico,Boyacá,150001,1/1/2022,29.07
+Tecnologico,Boyacá,150001,1/1/2023,28.2
+Tecnologico,Caldas,170001,1/1/2017,32.25
+Tecnologico,Caldas,170001,1/1/2018,32.91
+Tecnologico,Caldas,170001,1/1/2019,34.18
+Tecnologico,Caldas,170001,1/1/2020,32.85
+Tecnologico,Caldas,170001,1/1/2021,32.82
+Tecnologico,Caldas,170001,1/1/2022,32.66
+Tecnologico,Caldas,170001,1/1/2023,32.16
+Tecnologico,Caquetá,180001,1/1/2017,44.77
+Tecnologico,Caquetá,180001,1/1/2018,45.81
+Tecnologico,Caquetá,180001,1/1/2019,47.83
+Tecnologico,Caquetá,180001,1/1/2020,43.39
+Tecnologico,Caquetá,180001,1/1/2021,41.61
+Tecnologico,Caquetá,180001,1/1/2022,40.75
+Tecnologico,Caquetá,180001,1/1/2023,39.17
+Tecnologico,Casanare,850001,1/1/2017,36.23
+Tecnologico,Casanare,850001,1/1/2018,36.82
+Tecnologico,Casanare,850001,1/1/2019,42.41
+Tecnologico,Casanare,850001,1/1/2020,34.26
+Tecnologico,Casanare,850001,1/1/2021,32.97
+Tecnologico,Casanare,850001,1/1/2022,33.96
+Tecnologico,Casanare,850001,1/1/2023,32.21
+Tecnologico,Cauca,190001,1/1/2017,33.71
+Tecnologico,Cauca,190001,1/1/2018,35.43
+Tecnologico,Cauca,190001,1/1/2019,38.17
+Tecnologico,Cauca,190001,1/1/2020,34.2
+Tecnologico,Cauca,190001,1/1/2021,34.9
+Tecnologico,Cauca,190001,1/1/2022,34.97
+Tecnologico,Cauca,190001,1/1/2023,33.74
+Tecnologico,Cesar,200001,1/1/2017,32
+Tecnologico,Cesar,200001,1/1/2018,35.76
+Tecnologico,Cesar,200001,1/1/2019,41.37
+Tecnologico,Cesar,200001,1/1/2020,33.96
+Tecnologico,Cesar,200001,1/1/2021,33.94
+Tecnologico,Cesar,200001,1/1/2022,36.21
+Tecnologico,Cesar,200001,1/1/2023,35.24
+Tecnologico,Chocó,270001,1/1/2017,37.04
+Tecnologico,Chocó,270001,1/1/2018,39.53
+Tecnologico,Chocó,270001,1/1/2019,44.5
+Tecnologico,Chocó,270001,1/1/2020,37.97
+Tecnologico,Chocó,270001,1/1/2021,37.77
+Tecnologico,Chocó,270001,1/1/2022,37.78
+Tecnologico,Chocó,270001,1/1/2023,36.46
+Tecnologico,Córdoba,230001,1/1/2017,35.92
+Tecnologico,Córdoba,230001,1/1/2018,36.85
+Tecnologico,Córdoba,230001,1/1/2019,40.88
+Tecnologico,Córdoba,230001,1/1/2020,34.68
+Tecnologico,Córdoba,230001,1/1/2021,33.73
+Tecnologico,Córdoba,230001,1/1/2022,35.23
+Tecnologico,Córdoba,230001,1/1/2023,33.52
+Tecnologico,Cundinamarca,250001,1/1/2017,31.53
+Tecnologico,Cundinamarca,250001,1/1/2018,33.23
+Tecnologico,Cundinamarca,250001,1/1/2019,31.85
+Tecnologico,Cundinamarca,250001,1/1/2020,27.33
+Tecnologico,Cundinamarca,250001,1/1/2021,27.48
+Tecnologico,Cundinamarca,250001,1/1/2022,28.42
+Tecnologico,Cundinamarca,250001,1/1/2023,28.14
+Tecnologico,Guainía,940001,1/1/2017,28.08
+Tecnologico,Guainía,940001,1/1/2018,33.52
+Tecnologico,Guainía,940001,1/1/2019,35.42
+Tecnologico,Guainía,940001,1/1/2020,34.16
+Tecnologico,Guainía,940001,1/1/2021,32.74
+Tecnologico,Guainía,940001,1/1/2022,32.84
+Tecnologico,Guainía,940001,1/1/2023,32.65
+Tecnologico,Guaviare,950001,1/1/2017,45.31
+Tecnologico,Guaviare,950001,1/1/2018,47.1
+Tecnologico,Guaviare,950001,1/1/2019,54.14
+Tecnologico,Guaviare,950001,1/1/2020,45.16
+Tecnologico,Guaviare,950001,1/1/2021,44.69
+Tecnologico,Guaviare,950001,1/1/2022,47.74
+Tecnologico,Guaviare,950001,1/1/2023,46.02
+Tecnologico,Huila,410001,1/1/2017,30.99
+Tecnologico,Huila,410001,1/1/2018,33.94
+Tecnologico,Huila,410001,1/1/2019,38.37
+Tecnologico,Huila,410001,1/1/2020,32.63
+Tecnologico,Huila,410001,1/1/2021,33.58
+Tecnologico,Huila,410001,1/1/2022,34.98
+Tecnologico,Huila,410001,1/1/2023,34.71
+Tecnologico,La Guajira,440001,1/1/2017,45.65
+Tecnologico,La Guajira,440001,1/1/2018,48.73
+Tecnologico,La Guajira,440001,1/1/2019,56.44
+Tecnologico,La Guajira,440001,1/1/2020,47.41
+Tecnologico,La Guajira,440001,1/1/2021,46.89
+Tecnologico,La Guajira,440001,1/1/2022,50.44
+Tecnologico,La Guajira,440001,1/1/2023,49.37
+Tecnologico,Magdalena,470001,1/1/2017,37.09
+Tecnologico,Magdalena,470001,1/1/2018,39.67
+Tecnologico,Magdalena,470001,1/1/2019,45.13
+Tecnologico,Magdalena,470001,1/1/2020,38.42
+Tecnologico,Magdalena,470001,1/1/2021,37.49
+Tecnologico,Magdalena,470001,1/1/2022,38.36
+Tecnologico,Magdalena,470001,1/1/2023,37.28
+Tecnologico,Meta,500001,1/1/2017,37.03
+Tecnologico,Meta,500001,1/1/2018,39.56
+Tecnologico,Meta,500001,1/1/2019,41.49
+Tecnologico,Meta,500001,1/1/2020,37.1
+Tecnologico,Meta,500001,1/1/2021,36.22
+Tecnologico,Meta,500001,1/1/2022,35.36
+Tecnologico,Meta,500001,1/1/2023,34.48
+Tecnologico,Nariño,520001,1/1/2017,29.33
+Tecnologico,Nariño,520001,1/1/2018,31.21
+Tecnologico,Nariño,520001,1/1/2019,32.78
+Tecnologico,Nariño,520001,1/1/2020,29.17
+Tecnologico,Nariño,520001,1/1/2021,28.93
+Tecnologico,Nariño,520001,1/1/2022,28.46
+Tecnologico,Nariño,520001,1/1/2023,28.21
+Tecnologico,Norte De Santander,540001,1/1/2017,33.91
+Tecnologico,Norte De Santander,540001,1/1/2018,35.43
+Tecnologico,Norte De Santander,540001,1/1/2019,35.92
+Tecnologico,Norte De Santander,540001,1/1/2020,33.43
+Tecnologico,Norte De Santander,540001,1/1/2021,32.85
+Tecnologico,Norte De Santander,540001,1/1/2022,32.15
+Tecnologico,Norte De Santander,540001,1/1/2023,31.45
+Tecnologico,Putumayo,860001,1/1/2017,39.45
+Tecnologico,Putumayo,860001,1/1/2018,42.14
+Tecnologico,Putumayo,860001,1/1/2019,43.21
+Tecnologico,Putumayo,860001,1/1/2020,39.5
+Tecnologico,Putumayo,860001,1/1/2021,38.6
+Tecnologico,Putumayo,860001,1/1/2022,37.85
+Tecnologico,Putumayo,860001,1/1/2023,37
+Tecnologico,Quindío,630001,1/1/2017,39.09
+Tecnologico,Quindío,630001,1/1/2018,41.49
+Tecnologico,Quindío,630001,1/1/2019,44.49
+Tecnologico,Quindío,630001,1/1/2020,41.48
+Tecnologico,Quindío,630001,1/1/2021,42.47
+Tecnologico,Quindío,630001,1/1/2022,42.86
+Tecnologico,Quindío,630001,1/1/2023,42.86
+Tecnologico,Risaralda,660001,1/1/2017,33.37
+Tecnologico,Risaralda,660001,1/1/2018,33.9
+Tecnologico,Risaralda,660001,1/1/2019,34.92
+Tecnologico,Risaralda,660001,1/1/2020,32.05
+Tecnologico,Risaralda,660001,1/1/2021,32.39
+Tecnologico,Risaralda,660001,1/1/2022,33.15
+Tecnologico,Risaralda,660001,1/1/2023,32.85
+Tecnologico,Santander,680001,1/1/2017,35.11
+Tecnologico,Santander,680001,1/1/2018,35.46
+Tecnologico,Santander,680001,1/1/2019,36.68
+Tecnologico,Santander,680001,1/1/2020,34.44
+Tecnologico,Santander,680001,1/1/2021,33.59
+Tecnologico,Santander,680001,1/1/2022,33.11
+Tecnologico,Santander,680001,1/1/2023,31.67
+Tecnologico,Sucre,700001,1/1/2017,25.65
+Tecnologico,Sucre,700001,1/1/2018,30.02
+Tecnologico,Sucre,700001,1/1/2019,33.28
+Tecnologico,Sucre,700001,1/1/2020,29.96
+Tecnologico,Sucre,700001,1/1/2021,29.09
+Tecnologico,Sucre,700001,1/1/2022,30.26
+Tecnologico,Sucre,700001,1/1/2023,29.13
+Tecnologico,Tolima,730001,1/1/2017,37.48
+Tecnologico,Tolima,730001,1/1/2018,38.95
+Tecnologico,Tolima,730001,1/1/2019,42.24
+Tecnologico,Tolima,730001,1/1/2020,36.83
+Tecnologico,Tolima,730001,1/1/2021,36.86
+Tecnologico,Tolima,730001,1/1/2022,37.17
+Tecnologico,Tolima,730001,1/1/2023,36.36
+Tecnologico,Valle Del Cauca,760001,1/1/2017,37.17
+Tecnologico,Valle Del Cauca,760001,1/1/2018,37.96
+Tecnologico,Valle Del Cauca,760001,1/1/2019,38.98
+Tecnologico,Valle Del Cauca,760001,1/1/2020,36.69
+Tecnologico,Valle Del Cauca,760001,1/1/2021,36.18
+Tecnologico,Valle Del Cauca,760001,1/1/2022,35.59
+Tecnologico,Valle Del Cauca,760001,1/1/2023,35.07
+Tecnologico,Vaupés,970001,1/1/2017,47.16
+Tecnologico,Vaupés,970001,1/1/2018,52.44
+Tecnologico,Vaupés,970001,1/1/2019,50.56
+Tecnologico,Vaupés,970001,1/1/2020,48.26
+Tecnologico,Vaupés,970001,1/1/2021,48.71
+Tecnologico,Vaupés,970001,1/1/2022,46.1
+Tecnologico,Vaupés,970001,1/1/2023,45.01
+Tecnologico,Vichada,990001,1/1/2017,39.57
+Tecnologico,Vichada,990001,1/1/2018,42.08
+Tecnologico,Vichada,990001,1/1/2019,49.56
+Tecnologico,Vichada,990001,1/1/2020,41.57
+Tecnologico,Vichada,990001,1/1/2021,39.81
+Tecnologico,Vichada,990001,1/1/2022,41.41
+Tecnologico,Vichada,990001,1/1/2023,39.81
