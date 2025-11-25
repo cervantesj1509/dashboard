@@ -263,11 +263,13 @@ rango_years = st.sidebar.slider(
 
 # Aplicar filtros
 mask = (
-    df["Nivel_formacion"].isin(nivel_sel) &
+    df["Nivel_formacion"].isin(niveles_sel) &
     df["Departamento"].isin(depto_sel) &
     df["Año"].between(rango_years[0], rango_years[1])
 )
+
 dff = df[mask].copy()
+
 
 # =========================
 # INDICADORES (KPIs)
