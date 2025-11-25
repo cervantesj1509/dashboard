@@ -215,31 +215,50 @@ st.sidebar.markdown("### 🔍 Controles de exploración")
 niveles = sorted(df["Nivel_formacion"].dropna().unique())
 departamentos = sorted(df["Departamento"].dropna().unique())
 
-nivel_sel = st.sidebar.multiselect(
-    "Nivel de formación",
-    options=niveles,
-    default=niveles,
-    help="Selecciona uno o varios niveles para filtrar."
-)
+# ------- NIVELES DE FORMACIÓN CON CHECKBOX -------
+st.sidebar.markdown("**Niveles de formación**")
 
-depto_sel = st.sidebar.multiselect(
-    "Departamento",
-    options=departamentos,
-    default=departamentos,
-    help="Puedes concentrarte en uno o varios departamentos."
-)
+chk_todos_niveles = st.sidebar.checkbox("Todos los niveles", value=True)
 
+niveles_sel = []
+if chk_todos_niveles:
+    niveles_sel = niveles
+else:
+    for n in niveles:
+        if st.sidebar.checkbox(n, key=f"nivel_{n}"):
+            niveles_sel.append(n)
+
+# Si no selecciona nada, por seguridad usamos todos
+if not niveles_sel:
+    niveles_sel = niveles
+
+st.sidebar.markdown("---")
+
+# ------- DEPARTAMENTOS CON CHECKBOX -------
+st.sidebar.markdown("**Departamentos**")
+
+chk_todos_deptos = st.sidebar.checkbox("Todos los departamentos", value=True)
+
+depto_sel = []
+if chk_todos_deptos:
+    depto_sel = departamentos
+else:
+    for d in departamentos:
+        if st.sidebar.checkbox(d, key=f"depto_{d}"):
+            depto_sel.append(d)
+
+if not depto_sel:
+    depto_sel = departamentos
+
+st.sidebar.markdown("---")
+
+# ------- RANGO DE AÑOS -------
 rango_years = st.sidebar.slider(
     "Rango de años",
     min_value=min_year,
     max_value=max_year,
     value=(min_year, max_year),
     step=1
-)
-
-st.sidebar.markdown("---")
-st.sidebar.caption(
-    "Este dashboard replica la lógica de Looker Studio: filtros a la izquierda, panel central de análisis y tarjetas de indicadores."
 )
 
 # Aplicar filtros
