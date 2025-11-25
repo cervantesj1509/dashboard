@@ -358,6 +358,13 @@ else:
     )
     st.plotly_chart(fig_bar, use_container_width=True)
 
+    df_map = (
+    dff.groupby("Departamento", as_index=False)["Tasa_desercion"]
+       .mean()
+       .rename(columns={"Tasa_desercion": "Tasa_promedio"})
+)
+
+
 # =========================
 # TABLA DETALLE
 # =========================
