@@ -35,6 +35,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+
 # ====== ESTILO TIPO LOOKER STUDIO ======
 st.markdown("""
     <style>
@@ -358,12 +359,7 @@ else:
     )
     st.plotly_chart(fig_bar, use_container_width=True)
 
-    df_map = (
-    dff.groupby("Departamento", as_index=False)["Tasa_desercion"]
-       .mean()
-       .rename(columns={"Tasa_desercion": "Tasa_promedio"})
-)
-
+   
 
 # =========================
 # TABLA DETALLE
